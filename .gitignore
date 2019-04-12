@@ -1,0 +1,6 @@
+Debug/
+Release/
+.vs
+*.user
+XOR_NN/*.user
+XOR_NN/Debug
