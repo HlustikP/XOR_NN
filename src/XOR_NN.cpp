@@ -21,6 +21,7 @@ int main(int argc, const char* argv[]) {
 	NeuralNetwork NN0(input, target, 4);
 	NN0.train();
 	NN0.test();
-	
+
+	std::cin.get();
 	return 0;
 }
